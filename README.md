@@ -13,9 +13,9 @@ Arduino Nano 33 BLE Sense와 Unity를 활용한 모션인식 액션 게임
 
 # Location of Core Scripts
 
-1) ./Peripheral
-2) ./Central
-3) ./Assets/Scripts
+1 ./Peripheral
+2 ./Central
+3 ./Assets/Scripts
 
 # Project Introduction Video
 
