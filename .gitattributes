@@ -1,1 +1,4 @@
-./libraries/* linguist-vendored
+* linguist-vendored
+libraries/* linguist-vendored
+*.cs linguist-vendored=false
+*.ino linguist-vendored=false
