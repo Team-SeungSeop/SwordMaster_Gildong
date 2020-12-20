@@ -1,4 +1,4 @@
 * linguist-vendored
-libraries/* linguist-vendored=true
+*.cpp linguist-vendored=true
 *.cs linguist-vendored=false
 *.ino linguist-vendored=false
